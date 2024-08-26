@@ -1,0 +1,41 @@
+img {
+  width: 100%;
+}
+
+.logo {
+  height: 1.5rem;
+  width: 1.5rem;
+  opacity: 0.4;
+}
+
+.jumbotron {
+  background-image: linear-gradient(rgba(255, 255, 255, 0.0), rgba(82, 82, 82, 0.5)), url("../media/job562-nunoon-05.jpg");
+  background-size: cover;
+  background-position: center;
+}
+
+.jumbotron h1 {
+  font-weight: bold;
+}
+
+.jumbotron p {
+  text-shadow: 5px 2px 2px rgba(255, 255, 255, 0);
+}
+
+li {
+  margin: auto 0;
+}
+
+.lead {
+  font-weight: normal;
+}
+
+.card-img-top {
+  height: 35vh;
+  object-fit: cover;
+  object-position: center;
+}
+
+.card-footer {
+  background-color: white;
+}
